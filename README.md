@@ -1,1 +1,3 @@
-# An-Image_Encryption_Algorithm_for_Medical_Images
+# An Image Encryption Algorithm for Medical Images
+
+## Contents
